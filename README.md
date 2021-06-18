@@ -1,12 +1,9 @@
 ### Hi there 👋
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thebryanwillis&count_private=true&theme=dark&showicons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanwillis&theme=dark&showicons=true)]()
-
-<a href="https://github.com/thebryanwillis/github-readme-stats">
+<a href="https://github.com/thebryanwillis/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=thebryanwillis&count_private=true&theme=dark&showicons=true" />
 </a>
-<a href="https://github.com/thebryanwillis/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thebryanwillis&repo=convoychat" />
+<a href="https://github.com/thebryanwillis/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanwillis&theme=dark&showicons=true" />
 </a>
 
 
