@@ -1,6 +1,14 @@
 ### Hi there 👋
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thebryanwillis&count_private=true&theme=dark&showicons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanwillis&theme=dark&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanwillis&theme=dark&showicons=true)]()
+
+<a href="https://github.com/thebryanwillis/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thebryanwillis&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/thebryanwillis/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thebryanwillis&repo=convoychat" />
+</a>
+
 
 <!--
 **thebryanwillis/thebryanwillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
