@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thebryanwillis&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thebryanwillis&count_private=true&theme=dark&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebryanwillis&theme=dark&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **thebryanwillis/thebryanwillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
