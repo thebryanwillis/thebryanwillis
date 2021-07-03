@@ -1,6 +1,6 @@
 ### Welcome to Bryan Willis's GitHub!
 
-**Portfolio**: https://thebryanwillis.github.io/
+* **Portfolio**: https://thebryanwillis.github.io/
 
 
 <a href="https://github.com/thebryanwillis/">
