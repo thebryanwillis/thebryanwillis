@@ -1,6 +1,8 @@
 ### Welcome to Bryan Willis's GitHub!
 
-**Portfolio**: (https://thebryanwillis.github.io/)
+**Portfolio**: https://thebryanwillis.github.io/
+
+
 <a href="https://github.com/thebryanwillis/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=thebryanwillis&count_private=true&theme=dark&showicons=true" />
 </a>
